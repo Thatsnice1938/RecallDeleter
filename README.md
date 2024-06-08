@@ -1,0 +1,2 @@
+# RecallDeleter
+Deletes Microsoft Recall.
